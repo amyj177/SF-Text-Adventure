@@ -1,5 +1,5 @@
 //Work in progress
-//Use of web diseign features
+//Use of web design features
 //Thanks webdevsimplified
 //fix text output
 //fix option outputs
